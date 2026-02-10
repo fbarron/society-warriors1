@@ -11,7 +11,7 @@ Society Warriors provides a single, university-specific feed where societies can
 ## Tech Stack
 - **Frontend & Backend:** React + Next.js (App Router)  
 - **Styling & UI:** TailwindCSS  
-- **Database:** MongoDB (with Mongoose for schema modeling)  
+- **Database:** Mock Database
 - **Language:** TypeScript  
 - **Authentication:** Custom login system (student ID and password)
 
