@@ -1,8 +1,10 @@
 # Society Warriors MVP TODO
 
+## Blurry Favicon Images
+- [ ] Fix Blurry Favicon Images!
 ## Authentication
-- [ ] Register page
-- [ ] Login page
+- [ in progress ] Register page
+- [ in progress ] Login page
 - [ ] Session cookie / dashboard protection
 
 ## Societies
@@ -24,7 +26,7 @@
 - [ ] Update feed dynamically
 
 ## Polish & Demo
-- [ ] Navbar
+- [ in progress ] Navbar
 - [ ] Loading / empty states
 - [ ] Seed demo users & societies
-- [ ] Responsive layout
+- [ in progress ] Responsive layout
